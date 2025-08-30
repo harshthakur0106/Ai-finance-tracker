@@ -41,7 +41,7 @@ Deployment: Vercel
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ai-finance-platform.git
+git clone https://github.com/harshthakur0106/ai-finance-platform.git
 cd ai-finance-platform
 
 
